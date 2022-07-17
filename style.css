@@ -1,0 +1,32 @@
+h2 {
+    color: cadetblue;
+    
+}
+
+h3 {
+    color: cadetblue;
+    font-size: 50px;
+}
+
+ul li {
+    color: blue;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.index {
+    color:red;
+    text-align: left;
+    list-style-position: outside;
+    font-size: 30px;
+}
+
+*{
+    background-color: beige;
+    font-family: cursive;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
